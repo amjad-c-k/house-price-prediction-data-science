@@ -1,0 +1,16 @@
+Respondent,Experience_Rating,Accuracy_Rating,Ease_of_Use,Features_Used,Likes,Improvements,Feature_Requests,Recommendation_Score
+farah,4,3,5,"Prediction, Insights",The interface is clean and intuitive. I like how quickly I get results.,"The prediction seems a bit off for my area, maybe include more location-specific data.",Integration with real estate listings to compare predictions with actual prices.,8
+mahnoor,5,4,5,"Prediction, Insights, About",I love the insights section! The visualizations are very informative.,Could use more explanation about why certain features affect price more than others.,Ability to save predictions for comparison later.,9
+zaynab,3,2,4,Prediction,Simple to use and quick results.,Predictions were way off for my property. Need to improve accuracy.,Include school district ratings as they heavily impact prices in my area.,5
+sadia,4,4,4,"Prediction, Insights",Very informative about which factors influence house prices the most.,The interface could be more mobile-friendly.,Historical price trends for different areas would be useful.,8
+noor,5,5,5,"Prediction, Insights, About",Incredibly accurate for my neighborhood! Easy to use too.,"Nothing major, works great for me.",Maybe add a map view to see price variations by geography.,10
+malaika,3,3,3,Prediction,It was straightforward to input my house details.,"The form is a bit long, could be simplified.",Comparative analysis with similar properties would be helpful.,6
+nimra,4,4,4,"Prediction, Insights",The correlation charts in the insights section are very helpful.,Add more explanation about the confidence interval.,Add the ability to export predictions to PDF.,8
+ayesha,2,2,3,Prediction,The design looks professional.,Predictions were significantly off. The model needs improvement.,Include more factors like proximity to amenities.,4
+hajra,5,4,5,"Prediction, Insights, About",The breakdown of factors affecting the price is extremely useful.,Could use more granular location options beyond just city.,Integration with mortgage calculators would be great.,9
+eman,4,3,4,"Prediction, Insights",I appreciate the confidence interval to understand the range.,The prediction seems to overvalue older homes.,Include neighborhood safety scores in the calculation.,7
+laiba,3,4,3,Prediction,Easy to get a quick estimate.,The interface feels a bit cluttered.,Option to see how individual changes affect the price in real-time.,6
+ali,5,5,4,"Prediction, Insights, About",The insights about bathroom vs. bedroom value were eye-opening.,Loading time could be improved.,Add comparison with recent sales in the area.,9
+person,4,3,5,"Prediction, Insights",Very user-friendly interface.,More cities should be included in the dropdown.,Virtual tour integration would be amazing.,8
+mahaz,3,3,4,Prediction,Quick and easy to use.,The predictions seem a bit conservative.,Include home style/architecture as a factor.,7
+eman,5,4,5,"Prediction, Insights, About",The methodology explanation in the About section is very thorough.,Include more details about how the model works.,Add a feature to track property value changes over time.,9
