@@ -63,15 +63,21 @@ Model Development: Train and compare multiple models (Linear, Ridge, Lasso, Rand
 Model Evaluation: Select best model using MAE, RMSE, and R²
 Deployment: Create interactive web application for users
 
-Project Structure
 housing-price-predictor/
 ├── app.py                  # Main Streamlit application
+
 ├── requirements.txt        # Required Python packages
+
 ├── housing_price_model.pkl # Serialized Random Forest model
+
 ├── model_features.pkl      # Feature list for consistent prediction
+
 ├── scaler.pkl              # Feature scaler for preprocessing
+
 ├── README.md               # Project documentation
+
 └── feedback_data.csv       # User feedback dataset
+
 Feedback and Future Improvements
 Based on user feedback, future versions will include:
 
