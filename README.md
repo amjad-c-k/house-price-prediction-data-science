@@ -64,6 +64,7 @@ Model Evaluation: Select best model using MAE, RMSE, and R²
 Deployment: Create interactive web application for users
 
 housing-price-predictor/
+
 ├── app.py                  # Main Streamlit application
 
 ├── requirements.txt        # Required Python packages
