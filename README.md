@@ -36,7 +36,7 @@ Pillow: For image processing
 Installation and Local Setup
 
 Clone this repository:
-bashgit clone https://github.com/your-username/housing-price-predictor.git
+bashgit clone (https://github.com/amjad-c-k/house-price-prediction-data-science.git)
 cd housing-price-predictor
 
 Create a virtual environment (optional but recommended):
